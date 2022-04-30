@@ -1,4 +1,4 @@
-## 👋 Hi, I’m yellodot / Gregoria Rubio, I'm from Paris, France
+## 👋 Hi, I’m yellodot / Gregoria Rubio, from Paris, France
 - 👀 I’m interested in everything basically, but trying to focus on being a **Fullstack JS developer**
 - 🌱 Most of the time I’m learning **React and Nodejs**, but also Vue.js, Typescript, Svelte, Socket.io
 - 💞️ Currently available for internships opportunities.
