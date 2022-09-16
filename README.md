@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Gregoria Rubio, from Paris, France
 👀 I’m interested in everything basically, but trying to focus on being a **Fullstack JS developer** <br>
-🌱 Most of the time I’m learning **React and Nodejs**, but also Vue.js, Typescript, Svelte, Socket.io <br>
+🌱 Most of the time I’m learning **React, Vue and Nodejs**, but also Typescript and more random things like OOP, algorithms and deployment methods <br>
 💞️ Currently available for internships opportunities. <br>
 📫 You can find me on LinkedIn if you want to contact me :  [here](https://www.linkedin.com/in/gregoria-rubio/)
 
